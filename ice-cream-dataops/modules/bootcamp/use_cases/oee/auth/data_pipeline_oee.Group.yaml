@@ -1,5 +1,5 @@
 name: oee_ts_space
-sourceId: a4ad6e43-778e-41ab-9c79-386ab9a2c4ca
+sourceId: {{data_pipeline_oee_source_id }}
 capabilities:
   - datasetsAcl:
       actions: [READ]

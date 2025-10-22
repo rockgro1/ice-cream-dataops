@@ -1,5 +1,5 @@
 name: icapi_dm_space
-sourceId: aa5a4f2a-a6c1-4ca3-88b1-564d624e9c77
+sourceId: {{ icapi_extractors_source_id }}
 capabilities:
   - datasetsAcl:
       actions: [READ]
